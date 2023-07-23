@@ -1,3 +1,5 @@
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjw7242)](https://solved.ac/cjw7242)
+
 #### 블로그
 <a href="https://cjw-awdsd.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-BLOG-000000?style=flat&logo=Tistory&logoColor=white"/>
 </a>
@@ -7,8 +9,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white"/>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjw7242)](https://solved.ac/cjw7242)
 <!--
 **CJW23/CJW23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
