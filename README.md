@@ -1,4 +1,4 @@
-#### 블로그
+#### 블로그
 <a href="https://cjw-awdsd.tistory.com" target="_blank"><img src="https://img.shields.io/badge/-BLOG-000000?style=flat&logo=Tistory&logoColor=white"/>
 </a>
 #### 기술스택
